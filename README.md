@@ -1,11 +1,12 @@
-# FASTER
+# Interconnecting Europe – FASTER as the gateway to the Capital Markets Union
 
 ## Development in progress
 
-- When I'm henophilia, I'm mute and kind.
-- When I'm sigalor, I'm the other puppet.
-- When I'm henophilia, I'm kind.
-- When I'm sigalor, I'm 
+- We are developing all the modules for FASTER in Elixir (especially the payment chain reconstruction and the eTRC exchange).
+distributed hash table to store the certificates of residence
+- first real-world application of the EU wallet
+- the application wouldn’t be hosted by Divizend, instead it would connect peer-to-peer to the other nodes in the network --> Divizend would just offer the trusted consulting for it (i.e. like RedHat, but creating our own software which is as influential as Linux, namely the CMU module) and be the service provider which brings it into the banks
+- open source and well-documented
 
 **TODO: Add description**
 
