@@ -1,5 +1,7 @@
 # Interconnecting Europe – FASTER as the gateway to the Capital Markets Union
 
+**Warning: This is currently a stub.**
+
 ## Development in progress
 
 - We are developing all the modules for FASTER in Elixir (especially the payment chain reconstruction and the eTRC exchange).
